@@ -36,10 +36,10 @@ You will also learn how to use Git effectively, including committing changes, br
 2. Navigate into the project folder:
    cd python_basic_projects
 
-3.Choose a project folder
+3. Choose a project folder
    cd number_guessing_game
    
-4.Run the Python script:
+4. Run the Python script:
    python main.py
 
 
