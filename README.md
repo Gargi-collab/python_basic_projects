@@ -14,7 +14,7 @@ You will also learn how to use Git effectively, including committing changes, br
 
 ## Projects Included
 
-- Number Guessing Game**: A simple game where the computer selects a random number and the player tries to guess it.
+- Number Guessing Game: A simple game where the computer selects a random number and the player tries to guess it.
 - *(future projects to add!)*
 
 ---
