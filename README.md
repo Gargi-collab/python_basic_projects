@@ -36,10 +36,10 @@ You will also learn how to use Git effectively, including committing changes, br
 2. Navigate into the project folder:
    cd python_basic_projects
    
-3.Choose a project folder
+ 3.Choose a project folder
    cd number_guessing_game
    
-4.Run the Python script:
+ 4.Run the Python script:
    python main.py
 
 
@@ -49,14 +49,20 @@ This repo is also a practice ground for Git and GitHub flow. Here’s a simple w
 
 1. Create a new branch for your project or feature:
      git checkout -b my-new-feature
+   
 2. Make your changes or add your project files
+   
 3. Stage the changes:
      git add .
+   
 4. Commit your changes with a clear message:
      git commit -m "Add [project name]: brief description"
+   
 5. Push your branch to GitHub:
      git push origin my-new-feature
+   
 6. Create a Pull Request on GitHub to merge your changes into main after review.
+   
 7. Once merged, switch back to main and pull the latest changes:
      git checkout main
      git pull origin main
